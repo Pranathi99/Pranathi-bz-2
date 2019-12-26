@@ -1,0 +1,12 @@
+---------------BZ-TRAINING-2--------------------
+
+node.js
+   compiler/runtime env for js
+npm
+   node pkg mgr
+   npmjs.com
+
+npm init
+npm i express --save
+
+express is for web server
